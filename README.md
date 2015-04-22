@@ -21,7 +21,7 @@ There are a few requirements for this software that must be met:
 - CoolProp (``pip`` install, see www.coolprop.org)
 - cx_Freeze (for packaging script into executable)
 
-Optionally, though it is highly recommended, you can use REFPROP to generate the phase envelopes.  The algorithms in REFPROP are far faster and more reliable at this point.
+Optionally, though it is highly recommended, install REFPROP.
 
 It is recommended (but not required) that you use Anaconda to create an environment into which you install mayavi and its dependencies.
 
